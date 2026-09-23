@@ -71,4 +71,21 @@ Answer in `submission/04-escalation.md`.
 
 ## How to submit
 
-Commit your work on a branch named `submission/<your-name>`, zip the whole folder including the `.git` directory, and email it back. We will read your commit history as well as your answers.
+Commit your work on a branch named `submission/<your-name>`. Then either:
+
+1. Push the branch to this repository and open a pull request against `main` (you have been invited as a collaborator), or
+2. Zip the whole folder including the `.git` directory and email it to the address in your invitation.
+
+Either way, we read your commit history as well as your answers. Do not merge anything.
+
+## How we assess
+
+| Item | Weight |
+|---|---|
+| Task 1: every cause found, counts add up, written for a manager | 20 |
+| Task 2: the verdict and the checks behind it | 35 |
+| Task 3: a control, not a promise to be more careful | 15 |
+| Task 4: fact kept apart from guess, a clear ask with a date | 15 |
+| Working habits: commit history, nothing touched under `data/`, honest NOTES.md | 15 |
+
+A partial answer with honest notes scores better than a complete one you cannot walk us through.
